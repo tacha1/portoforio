@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-image: url("../projects/images/ground.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.portofolio {
+    margin-left: 10%;
+    margin-top: 1%;
+    text-transform: uppercase;
+}
+
+.mynav {
+    margin-left: 50%;
+    margin-top: 1%;
+    text-transform: uppercase;
+}
+
+.topnav {
+    background-color: #055657;
+    overflow: hidden;
+    height: 10vh;
+}
+
+.topnav a {
+    float: left;
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #055657;
+}
+
+#title {
+    margin-top: 10%;
+    text-align: center;
+	padding: 80px 0 25px 0; 
+	font-weight: bold;
+	font-size: 2.2rem;
+    color: #473a3a;
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #055657;
+    color: white;
+    text-align: center;
+}
