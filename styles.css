@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Source Sans Pro', sans-serif;
-    background-image: url("/home/wecode/Documents/portoforio/projects/images/ground.jpeg");
+    background-image: url("file:///home/wecode/Documents/portoforio/projects/images/ground.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
