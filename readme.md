@@ -11,7 +11,7 @@ My portofolio
 * find code editor
 * open your terminal
 * cd Documents/portofolio/projects
-* git clone link
+* git clone https://tacha1.github.io/portoforio/
 * code .
 
 ## Technology used
