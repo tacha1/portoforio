@@ -8,11 +8,11 @@ Uwamariya Rosine
 My portofolio
 
 ## Setup/Installation Requirements
-. find code editor
-. open your terminal
-. cd Documents/portofolio/projects
-. git clone link
-. code .
+* find code editor
+* open your terminal
+* cd Documents/portofolio/projects
+* git clone link
+* code .
 
 ## Technology used
 I used HTML and CSS to create this project.
