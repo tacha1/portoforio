@@ -19,5 +19,4 @@ I used HTML and CSS to create this project.
 
 ## License
 MIT license
-
 Copyright (c) 2020 Moringa School
