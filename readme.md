@@ -20,4 +20,4 @@ I used HTML and CSS to create this project.
 ## License
 MIT license
 
-Copyright (c) 2019 Moringa School
+Copyright (c) 2020 Moringa School
