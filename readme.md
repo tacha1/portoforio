@@ -5,7 +5,7 @@ Rosine's portofolio
 Uwamariya Rosine
 
 ## Description
-
+My portofolio
 
 ## Setup/Installation Requirements
 * find code editor
