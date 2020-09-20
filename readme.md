@@ -2,7 +2,7 @@
 Rosine's portofolio
 
 # Author
-Uwamariya Rosine
+Rosine Uwamariya
 
 ## Description
 My portofolio
