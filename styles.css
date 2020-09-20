@@ -65,7 +65,7 @@ body {
 
 .myImage {
     margin-left: 5%;
-    margin-bottom: 15%;
+    margin-bottom: 8%;
 }
 
 .description {
@@ -80,4 +80,21 @@ body {
     background-color: #103636;
     color: white;
     text-align: center;
+}
+
+#myproject {
+    margin-bottom: 5%;
+}
+
+.twoproject {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+#contact{
+    margin-bottom: 10%;
+  text-align:center;
+    
 }
