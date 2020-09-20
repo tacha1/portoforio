@@ -15,7 +15,7 @@ My portofolio
 * code .
 
 ## Technology used
-I used HTML and CSS to create this project.
+
 
 ## License
 MIT license
