@@ -89,12 +89,55 @@ body {
 .twoproject {
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    margin-left: 5%;
+    margin-left: 10%;
     margin-top: 5%;
 }
 
 #contact{
     margin-bottom: 15%;
   text-align:center;
-    
+}
+
+@media only screen and (max-width: 1024px) {
+    body {
+        width: 90%;
+        font-size: 18px;
+    }
+
+    .homepage {
+        width: 110%;
+    }
+
+    .mybackground {
+        grid-template-columns: repeat(1,1fr);
+    }
+
+    .list {
+        margin-bottom: 5%;
+    }
+
+    .twoproject {
+        grid-template-columns: repeat(1,1fr);
+    }
+
+    .myImage {
+        margin-left: 30%;
+    }
+
+    .description {
+        margin-left: 10%;
+    }
+
+    footer {
+        width: 90%;
+        font-size: 18px;
+    }
+
+    .twoproject {
+        margin-left: 30%;
+    }
+
+    .project1 {
+        margin-bottom: 5%;
+    }
 }
